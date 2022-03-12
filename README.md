@@ -46,4 +46,4 @@
 * https://github.com/David-Irving/PasswordGen
 
 ### Website Preview
-![Website Preview](https://github.com/David-Irving/Portfolio/blob/main/Images/passwordgenPreview.png)
+![Website Preview](https://github.com/David-Irving/Portfolio/blob/main/Images/passwordgeneratorPreview.png)
