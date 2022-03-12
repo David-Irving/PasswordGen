@@ -40,10 +40,10 @@
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ### Website link
-* https://david-irving.github.io/Portfolio/
+*  https://david-irving.github.io/PasswordGen/
 
 ### Repository Link
-* https://github.com/David-Irving/Portfolio
+* https://github.com/David-Irving/PasswordGen
 
 ### Website Preview
 ![Website Preview](https://github.com/David-Irving/Portfolio/blob/main/Images/PortfolioPreview.png)
